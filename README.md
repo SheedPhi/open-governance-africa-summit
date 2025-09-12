@@ -112,15 +112,18 @@ This summit brings together practitioners from government, civil society, and th
 - Track all sponsors and contributions  
 - Include in-kind donations such as software, marketing support, or event spaces  
 
-**OGA Summit Crypto Donations:**  
+## **OGA Summit Crypto Donations:**  
 We encourage everyone to share these official links/wallets when asking for summit support as they are different from the normal sponsor links:  
 
 | Channel | Address / Link |
 |--------|----------------|
 | **GitHub Sponsors** | [https://github.com/sponsors/OpenGovAfrica](https://github.com/sponsors/OpenGovAfrica) |
-| **BTC Wallet** | `bc1qexamplebtcaddresshere123456` |
-| **ETH Wallet** | `0xExampleEthereumWallet123456789` |
-| **USDT (TRC-20)** | `TXExampleTronWallet123456` |
+| **BTC Wallet** | `bc1qcaz33t6z52xjcq27lzwn6h3snuvqvgsfrf089n` |
+| **ETH Wallet** | `0x1DBB67fB0e0dd6a8d5077D76b81D96fE52079D64` |
+| **USDT (TRC-20)** | `TNkmaofGVmDiJ4q2smVpwfV38Jvv8rvnEe` |
+| **BNB (Smart Chain)** | `0x1DBB67fB0e0dd6a8d5077D76b81D96fE52079D64` |
+| **BUSD (BNB Smart Chain)** | `0x1DBB67fB0e0dd6a8d5077D76b81D96fE52079D64` |
+| **SOL (Solana)** | `4CsCQKXsFQkGe1ve7RFVZGSYtct1KSbb1PGHE7y9KANL` |
 | **Bank Transfer (Currency)** | OpenGov Africa | Bank | Account No |
 
 ---
